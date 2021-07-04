@@ -1,0 +1,22 @@
+{
+    "name": "02.Follow_Me",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "TobbieII": "github:kaku111/20190209#887a276420cdb5f5214f9aaf5f02f0cb756aa6a7",
+        "microphone": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
